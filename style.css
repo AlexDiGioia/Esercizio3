@@ -1,0 +1,124 @@
+body
+{
+    margin:0px;
+    font-family: "Monserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1
+{
+    font-family: "Prata", sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 
+{
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h6
+{
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #056bbe, #d18902)
+}
+
+.main-section
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main-container
+{
+    height: 500px;
+}
+
+img
+{
+    width: 100%;
+}
+
+.img-homepage
+{
+    height: 500px;
+    background-image: url(https://www.joyphotographers.com/wp-content/uploads/2021/11/matrimonio-sacile-friuli-venezia-giulia-alberta-juan-37-600x400.jpg);
+    background-repeat: no-repeat;
+}
+
+.img-centro
+{
+    height: 500px;
+    background-image: url(https://www.pordenonewithlove.it/sites/default/files/styles/article_full/public/images/percorsi/17/08/03/PIAZZA-DEL-POPOLO-sascile-165_201.jpg?itok=v--4ITO0);
+    background-repeat: no-repeat;
+}
+
+.img-duomo
+{
+    height: 500px;
+    background-image: url(https://www.visitsacile.it/wp-content/uploads/2017/04/Duomo-San-Nicolo-Sacile-fascione.jpg);
+    background-repeat: no-repeat;
+}
+
+.img-fiumelivenza
+{
+    height: 500px;
+    background-image: url(https://d2t048k1u35nr5.cloudfront.net/photos/blog/preview/1514480952.jpg);
+    background-repeat: no-repeat;
+}
+
+a 
+{
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color:#c75c2b
+}
+
+a:hover
+{
+    color:red
+}
+
+ul > li 
+{
+    list-style-type: none;
+    padding-left: 22px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+footer 
+{
+    background-color: black;
+    padding: 16px;
+    margin-top: 165px;
+    text-align: center;
+}
+
+footer > a 
+{
+    color: white;
+}
+
+.footer-wrapper
+{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
